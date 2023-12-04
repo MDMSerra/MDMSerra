@@ -1,4 +1,3 @@
-
 ![bannerGit](https://github.com/MDMSerra/MDMSerra/assets/122322927/261413a7-c692-4e67-a376-54e043bc093f)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdmserra&label=Profile%20views&color=0e75b6&style=flat" alt="mdmserra" /> </p>
